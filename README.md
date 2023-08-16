@@ -16,11 +16,13 @@ Accenture Project Team :
 
 
 Task for Data Analyst :
+
 * Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
 * In short, the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
 Task - 2
+
 * Often you won’t need all these datasets to find what you’re looking for.
 * So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
 * After Analysis we got data sets needed to complete analysis:
@@ -31,6 +33,7 @@ Task - 2
   * Category
   
 Data Cleaning:
+
 Clean the data by:
 * Removing rows that have values which are missing,
 * Changing the data type of some values within a column, and
