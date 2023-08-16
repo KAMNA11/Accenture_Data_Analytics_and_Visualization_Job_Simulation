@@ -15,6 +15,7 @@ Task for Accenture :
 * Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
   
 Accenture Project Team :
+
 [Accenture Project Team](https://github.com/KAMNA11/Accenture_Data_Analytics_and_Visualization_Virtual_Experience/blob/main/Internal%20stakeholder%20chart.pdf)
 
 Task for Data Analyst :
