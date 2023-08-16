@@ -1,6 +1,8 @@
 # Accenture_Data_Analytics_and_Visualization_Virtual_Experience
 Task - 1
+
 Project Understanding:
+
 A data analyst sits between the business and the data.
 
 * One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
