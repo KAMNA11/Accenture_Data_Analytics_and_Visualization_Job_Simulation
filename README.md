@@ -56,11 +56,13 @@ A cleaned dataset
 So, the cleaned data set after data modelling & data cleaning : Cleaned Dataset
 
 Task - 3
+
 Data Visualization and Storytelling:
 Make the Powerpoint presentation as per the given template
 
 
 Task - 4
+
 Present to the Client:
 Present your powerpoint presentation to the client and deliver the insights of your analysis
 
