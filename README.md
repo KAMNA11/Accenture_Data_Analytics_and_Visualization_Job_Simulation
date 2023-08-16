@@ -68,7 +68,8 @@ Task - 4
 Present to the Client:
 Present your powerpoint presentation to the client and deliver the insights of your analysis
 
-
+# Certificate
+[Certificate](https://github.com/KAMNA11/Accenture_Data_Analytics_and_Visualization_Virtual_Experience/blob/main/Accenture%20Certificate.pdf)
 
 
 
