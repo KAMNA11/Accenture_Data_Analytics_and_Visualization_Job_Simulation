@@ -73,7 +73,9 @@ Present your powerpoint presentation to the client and deliver the insights of y
 [Certificate](https://github.com/KAMNA11/Accenture_Data_Analytics_and_Visualization_Virtual_Experience/blob/main/Certificate.pdf)
 
 
+# Programme Detail
 
+[Programme Detail](https://www.theforage.com/virtual-internships/prototype/hzmoNKtzvAzXsEqx8/Data-Analytics-Virtual-Experience)
 
 
 
